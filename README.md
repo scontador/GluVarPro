@@ -1,5 +1,8 @@
 # GluVarPro
-Aplicación que utiliza los valores de glucemia de pacientes diabéticos para evaluar diferentes medidas de promedios y variabilidad glucémica.
+Application that calculates different glucose variability measures, including average measures of glycemia, measures of glycemic variability, and measures of glycemic risk, from continuous glucose monitoring data obtained from diabetic patients.
 
-- Puedes abrir la presentación de la aplicación [aquí](https://rpubs.com/karmine/GluVarPro).
-- Puedes abrir la aplicación [aquí](https://scontador.shinyapps.io/GluVarPro).
+Made with R package gluvarpro included in the [CRAN (Comprehensive R Archive Network)](https://cran.r-project.org) project.
+
+- The documentation for the R package gluvarpro can be found [here](https://github.com/scontador/GluVarPro/gluvarpro.pdf).
+- The presentation of the application can be found [here](https://rpubs.com/scontador/GluVarPro).
+- The application can be found [here](https://scontador.shinyapps.io/GluVarPro).
